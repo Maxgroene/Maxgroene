@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A IT specialist for system-integration in training</h3>
 
 - 🔭 I’m currently working on [a mechanical 7 segment display with the esp32](https://github.com/Maxgroene/7seg-Uhr)
 
